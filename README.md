@@ -1,2 +1,2 @@
-# scalablytyped-fontawesome
-FontAwesome object using ScalablyTyped
+# FontAwesome for Laminar
+Render FontAwesome icons in Laminar using ScalablyTyped.
