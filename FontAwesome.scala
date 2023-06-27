@@ -22,8 +22,6 @@ object FontAwesome {
     )
   }
 
-  some new code here
-
   implicit def renderFontAwesomeIcon(icon: IconLookup): SvgElement =
     abstractElementToL(fa.icon(icon).`abstract`(0))
 
